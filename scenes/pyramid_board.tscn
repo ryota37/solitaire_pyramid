@@ -1,0 +1,5 @@
+[gd_scene format=3 uid="uid://c7veibh8d0jry"]
+
+[node name="PyramidBoard" type="Node2D"]
+
+[node name="CardsContainer" type="Node2D" parent="."]
